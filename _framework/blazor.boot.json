@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazorGitHubPagesDemo",
   "resources": {
-    "hash": "sha256-15Bd2n5U9WtOs1HriTxzhKz0NdbCMwXMOQwcB2O3Kdw=",
+    "hash": "sha256-YqZX7blrMv/C7J4vgw/2wdS3AS034tYXSLDOM6Kadxg=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-B6DNRvFeCUi3jbx9uKpuj+hV9cN0KG4RdZj1FgBZwj8="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "BlazorGitHubPagesDemo.wasm": "sha256-kGugNV2e/L0w1nKbwARaP/7O3lLoA9PqWeJj4WQYgbM=",
+      "BlazorGitHubPagesDemo.wasm": "sha256-TWEj2pdeI09xuIXJbkJ4iADtcoMG6bbtt0Y0NdN9F/o=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-a/oNNEu/Z0CRLP8eW3ZIS8Y3eznpUZXw74nkRsHTQp4=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-0vtTh6EuuiKM9gxQcURly0I9nZibKcseEcnCruFnj6k=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-qQYw8qfQ5vwzj9NGfJSu6BrKsxChdA3l6Og7HvSLCWA=",
